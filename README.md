@@ -6,10 +6,10 @@ Along with that, I have linked some of the resources that I used to prepare for 
 
 # Cloning the Repository
 If you are interesting in following along with this workshop, you can clone this repository through github and then run the following code within your local computer
-'''
+```
 git clone https://github.com/devkhullar/OOP-tutorial.git
 cd OOP-tutorial
-'''
+```
 
 # Requirements
 The following packages will be required to use this code:
