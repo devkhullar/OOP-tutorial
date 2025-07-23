@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devkhullar/OOP-tutorial.git/HEAD)
 # Advanced Python Programming: Object Oriented Programming, debugging, packages, misc
 
 In this workshop, I introduce Object Oriented Programming (OOP) in Python along with the fundamentals of OOP, namely, inheritance, polymorphism, encapsulation and abstraction. Along with that, I also talk about structuring Python packages to import them anywhere within your local computer, demonstrate an example on how to debug code using the VS Code code editor, some miscellaneous programming concepts and code documentation. 
