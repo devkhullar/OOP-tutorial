@@ -12,6 +12,9 @@ git clone https://github.com/devkhullar/OOP-tutorial.git
 cd OOP-tutorial
 ```
 
+# Recording
+The recording corresponding to this presentation may be found at this [link](https://uleth.zoom.us/rec/component-page?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&requestFrom=pwdCheck&clusterId=aw1&componentName=need-password&meetingId=aiKbRoC-N4ZLyG0Yr8gDR-73bTc6HBut6IVtNEqKRnmyRmRb87uX8oZZGVS1D_7i.x_qmMl5n1xhWYyjf&originRequestUrl=https%3A%2F%2Fuleth.zoom.us%2Frec%2Fshare%2F5rRjBm2gkotnqkPkEaSzsDK98ex7quUxQINUcSNvKeqCUQekqLbpX6wz-PLzBl6i.11jRXYPrElRJBE53%3FstartTime%3D1753304698000) with passcode:H0A%Q8R.
+
 # Requirements
 The following packages will be required to use this code:
 - `numpy`
